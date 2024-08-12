@@ -1,9 +1,10 @@
 ---
 title: Home
 layout: default
+permalink: /
 nav_order: 1
 ---
-![Image](/assets/logo.png)
+![Image]({{ site.baseurl }}/assets/logo.png)
 
 The Modding Bungalo is a discord server setup by YouTuber & streamer Biggie Boss.
 Orginally a private discord and then a public one for content creation,
@@ -13,7 +14,7 @@ content creators, mod authors and more!
 [Join the Discord](https://discord.gg/bungalo){: .btn }
 
 ## Lorerim
-![Image](/assets/lorerim-secondchapter.png)
+![Image]({{ site.baseurl }}/assets/lorerim-secondchapter.png)
 LoreRim is complete overhaul of Skyrim Anniversary Edition, designed to modernize the visuals and combat of the game while also staying true to lore and bringing back gameplay mechanics from previous games. This modlist is heavily focused on immersion, role-playing and progression.
 
 [View Website](https://lorerim.netlify.app){: .btn }
