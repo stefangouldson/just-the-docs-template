@@ -7,7 +7,7 @@ favicon_ico: "/assets/favicon.png"
 url: https://stefangouldson.github.io/just-the-docs-template
 
 aux_links:
-  Join the Discord: https://discord.gg/bungalo
+  JOIN THE DISCORD: https://discord.gg/bungalo
 
 footer_content: "Copyright &copy; 2024 Gouldsonium"
 
@@ -19,13 +19,13 @@ gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
-# collections:
-#   lists:
-#     permalink: "/:collection/:path/"
-#     output: true
+collections:
+  lists:
+    permalink: "/:collection/:path/"
+    output: true
 
-# just_the_docs:
-#   # Define which collections are used in just-the-docs
-#   collections:
-#     lists:
-#       name: Lists
+just_the_docs:
+  # Define which collections are used in just-the-docs
+  collections:
+    lists:
+      name: Lists
