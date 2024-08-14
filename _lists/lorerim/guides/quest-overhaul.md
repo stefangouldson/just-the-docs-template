@@ -3,9 +3,10 @@ layout: default
 title: Quest Overhauls
 parent: Guides
 grand_parent: Lorerim
-nav_order: 2
+nav_order: 3
 ---
 # Lorerim Quest Overhauls
+###### By WhisperDealer
 
 Lorerim overhauls several quests from the base game, DLCs, and Creation Club. This guide will help indicate how to start them.
 

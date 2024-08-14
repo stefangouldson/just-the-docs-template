@@ -6,6 +6,7 @@ grand_parent: Lorerim
 nav_order: 4
 ---
 # Lorerim Quest Mods Overview
+###### By TheIncredibleSad
 
 Lorerim comes with several new quest mods, from expansions of vanilla quests to DLC-sized mods that expand upon the game. This guide will help indicate how to start them.
 
