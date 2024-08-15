@@ -1,7 +1,7 @@
 title: The Modding Bungalo
 description: The modding bungalo wiki for guides on their lists as well as other modding related stuff
 theme: just-the-docs
-color_scheme: wildlander-dark
+color_scheme: bungalo-dark
 logo: "/assets/logo.png"
 favicon_ico: "/assets/favicon.png"
 url: https://stefangouldson.github.io/just-the-docs-template
@@ -9,15 +9,10 @@ url: https://stefangouldson.github.io/just-the-docs-template
 aux_links:
   JOIN THE DISCORD: https://discord.gg/bungalo
 
-footer_content: "Copyright &copy; 2024 Gouldsonium"
+back_to_top: true
+back_to_top_text: "Back to top"
 
-# Footer "Edit this page on GitHub" link text
-gh_edit_link: true # show or hide edit this page link
-gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/stefangouldson/just-the-docs-template" # the github URL for your repo
-gh_edit_branch: "main" # the branch that your docs is served from
-# gh_edit_source: docs # the source that your files originate from
-gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+footer_content: "Copyright &copy; 2024 Gouldsonium"
 
 collections:
   lists:
@@ -33,5 +28,8 @@ just_the_docs:
   collections:
     lists:
       name: Lists
+      nav_fold: false   
     modding_guides:
       name: Modding Guides
+      nav_fold: true   
+

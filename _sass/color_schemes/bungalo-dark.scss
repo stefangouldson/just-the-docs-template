@@ -10,3 +10,12 @@ $code-background-color: #462B53;
 // $base-button-color: #ffdf58;
 $btn-primary-color: #ffdf58;
 $feedback-color: darken(#180532, 3%);
+
+.youtube-container{
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  height: auto;
+}
